@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Camiseta",
+        "preco": 20.0,
+        "quantidade": 50
+    },
+    {
+        "nome": "Calca Jeans",
+        "preco": 50.0,
+        "quantidade": 30
+    },
+    {
+        "nome": "Tenis",
+        "preco": 80.0,
+        "quantidade": 20
+    }
+]
