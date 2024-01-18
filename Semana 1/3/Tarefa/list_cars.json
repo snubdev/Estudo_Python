@@ -1,0 +1,32 @@
+{
+    "carros": [
+        {
+            "marca": "Toyota",
+            "modelo": "Corolla",
+            "ano": 2022,
+            "cor": "Prata",
+            "preco": 35000
+        },
+        {
+            "marca": "Ford",
+            "modelo": "Mustang",
+            "ano": 2023,
+            "cor": "Vermelho",
+            "preco": 50000
+        },
+        {
+            "marca": "Tesla",
+            "modelo": "Model S",
+            "ano": 2024,
+            "cor": "Branco",
+            "preco": 80000
+        },
+        {
+            "marca": "Audi",
+            "modelo": "RS6",
+            "ano": 2023,
+            "cor": "Preto",
+            "preco": 110000
+        }
+    ]
+}

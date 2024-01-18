@@ -1,0 +1,1045 @@
+{
+    "T\u00eanis_Casual_Marca C": [
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "Casual",
+            "marca": "Marca C",
+            "ano_fabricacao": 2022,
+            "qtd_estoque": 67,
+            "qtd_vendas": 22,
+            "valor_produto": 43.97
+        }
+    ],
+    "Camiseta_Moderno_Marca D": [
+        {
+            "nome_produto": "Camiseta",
+            "modelo": "Moderno",
+            "marca": "Marca D",
+            "ano_fabricacao": 2020,
+            "qtd_estoque": 112,
+            "qtd_vendas": 23,
+            "valor_produto": 52.63
+        },
+        {
+            "nome_produto": "Camiseta",
+            "modelo": "Moderno",
+            "marca": "Marca D",
+            "ano_fabricacao": 2018,
+            "qtd_estoque": 183,
+            "qtd_vendas": 19,
+            "valor_produto": 92.04
+        }
+    ],
+    "Camiseta_Moderno_Marca C": [
+        {
+            "nome_produto": "Camiseta",
+            "modelo": "Moderno",
+            "marca": "Marca C",
+            "ano_fabricacao": 2020,
+            "qtd_estoque": 185,
+            "qtd_vendas": 46,
+            "valor_produto": 37.3
+        }
+    ],
+    "Jaqueta_Moderno_Marca D": [
+        {
+            "nome_produto": "Jaqueta",
+            "modelo": "Moderno",
+            "marca": "Marca D",
+            "ano_fabricacao": 2019,
+            "qtd_estoque": 176,
+            "qtd_vendas": 6,
+            "valor_produto": 54.17
+        },
+        {
+            "nome_produto": "Jaqueta",
+            "modelo": "Moderno",
+            "marca": "Marca D",
+            "ano_fabricacao": 2023,
+            "qtd_estoque": 113,
+            "qtd_vendas": 24,
+            "valor_produto": 53.69
+        },
+        {
+            "nome_produto": "Jaqueta",
+            "modelo": "Moderno",
+            "marca": "Marca D",
+            "ano_fabricacao": 2018,
+            "qtd_estoque": 131,
+            "qtd_vendas": 49,
+            "valor_produto": 48.33
+        }
+    ],
+    "T\u00eanis_Casual_Marca E": [
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "Casual",
+            "marca": "Marca E",
+            "ano_fabricacao": 2023,
+            "qtd_estoque": 190,
+            "qtd_vendas": 29,
+            "valor_produto": 16.1
+        },
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "Casual",
+            "marca": "Marca E",
+            "ano_fabricacao": 2018,
+            "qtd_estoque": 144,
+            "qtd_vendas": 44,
+            "valor_produto": 80.17
+        },
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "Casual",
+            "marca": "Marca E",
+            "ano_fabricacao": 2020,
+            "qtd_estoque": 90,
+            "qtd_vendas": 31,
+            "valor_produto": 52.47
+        },
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "Casual",
+            "marca": "Marca E",
+            "ano_fabricacao": 2023,
+            "qtd_estoque": 73,
+            "qtd_vendas": 2,
+            "valor_produto": 45.38
+        }
+    ],
+    "Bon\u00e9_Elegante_Marca B": [
+        {
+            "nome_produto": "Bon\u00e9",
+            "modelo": "Elegante",
+            "marca": "Marca B",
+            "ano_fabricacao": 2018,
+            "qtd_estoque": 114,
+            "qtd_vendas": 42,
+            "valor_produto": 87.95
+        },
+        {
+            "nome_produto": "Bon\u00e9",
+            "modelo": "Elegante",
+            "marca": "Marca B",
+            "ano_fabricacao": 2021,
+            "qtd_estoque": 96,
+            "qtd_vendas": 15,
+            "valor_produto": 88.26
+        }
+    ],
+    "T\u00eanis_B\u00e1sico_Marca D": [
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "B\u00e1sico",
+            "marca": "Marca D",
+            "ano_fabricacao": 2018,
+            "qtd_estoque": 158,
+            "qtd_vendas": 20,
+            "valor_produto": 75.7
+        },
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "B\u00e1sico",
+            "marca": "Marca D",
+            "ano_fabricacao": 2019,
+            "qtd_estoque": 175,
+            "qtd_vendas": 26,
+            "valor_produto": 74.33
+        },
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "B\u00e1sico",
+            "marca": "Marca D",
+            "ano_fabricacao": 2020,
+            "qtd_estoque": 115,
+            "qtd_vendas": 10,
+            "valor_produto": 18.69
+        }
+    ],
+    "T\u00eanis_Elegante_Marca D": [
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "Elegante",
+            "marca": "Marca D",
+            "ano_fabricacao": 2023,
+            "qtd_estoque": 168,
+            "qtd_vendas": 13,
+            "valor_produto": 15.63
+        },
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "Elegante",
+            "marca": "Marca D",
+            "ano_fabricacao": 2023,
+            "qtd_estoque": 153,
+            "qtd_vendas": 47,
+            "valor_produto": 17.16
+        }
+    ],
+    "Camiseta_Casual_Marca E": [
+        {
+            "nome_produto": "Camiseta",
+            "modelo": "Casual",
+            "marca": "Marca E",
+            "ano_fabricacao": 2023,
+            "qtd_estoque": 156,
+            "qtd_vendas": 45,
+            "valor_produto": 18.23
+        },
+        {
+            "nome_produto": "Camiseta",
+            "modelo": "Casual",
+            "marca": "Marca E",
+            "ano_fabricacao": 2019,
+            "qtd_estoque": 77,
+            "qtd_vendas": 3,
+            "valor_produto": 87.04
+        }
+    ],
+    "Camiseta_Elegante_Marca A": [
+        {
+            "nome_produto": "Camiseta",
+            "modelo": "Elegante",
+            "marca": "Marca A",
+            "ano_fabricacao": 2020,
+            "qtd_estoque": 97,
+            "qtd_vendas": 39,
+            "valor_produto": 96.97
+        }
+    ],
+    "Jaqueta_Elegante_Marca A": [
+        {
+            "nome_produto": "Jaqueta",
+            "modelo": "Elegante",
+            "marca": "Marca A",
+            "ano_fabricacao": 2021,
+            "qtd_estoque": 104,
+            "qtd_vendas": 39,
+            "valor_produto": 95.01
+        },
+        {
+            "nome_produto": "Jaqueta",
+            "modelo": "Elegante",
+            "marca": "Marca A",
+            "ano_fabricacao": 2019,
+            "qtd_estoque": 131,
+            "qtd_vendas": 47,
+            "valor_produto": 54.94
+        },
+        {
+            "nome_produto": "Jaqueta",
+            "modelo": "Elegante",
+            "marca": "Marca A",
+            "ano_fabricacao": 2022,
+            "qtd_estoque": 192,
+            "qtd_vendas": 30,
+            "valor_produto": 13.9
+        }
+    ],
+    "Bon\u00e9_Esportivo_Marca B": [
+        {
+            "nome_produto": "Bon\u00e9",
+            "modelo": "Esportivo",
+            "marca": "Marca B",
+            "ano_fabricacao": 2019,
+            "qtd_estoque": 161,
+            "qtd_vendas": 22,
+            "valor_produto": 29.6
+        },
+        {
+            "nome_produto": "Bon\u00e9",
+            "modelo": "Esportivo",
+            "marca": "Marca B",
+            "ano_fabricacao": 2023,
+            "qtd_estoque": 121,
+            "qtd_vendas": 23,
+            "valor_produto": 60.01
+        }
+    ],
+    "Bon\u00e9_Moderno_Marca A": [
+        {
+            "nome_produto": "Bon\u00e9",
+            "modelo": "Moderno",
+            "marca": "Marca A",
+            "ano_fabricacao": 2022,
+            "qtd_estoque": 132,
+            "qtd_vendas": 7,
+            "valor_produto": 47.66
+        }
+    ],
+    "T\u00eanis_Esportivo_Marca C": [
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "Esportivo",
+            "marca": "Marca C",
+            "ano_fabricacao": 2022,
+            "qtd_estoque": 125,
+            "qtd_vendas": 42,
+            "valor_produto": 87.55
+        },
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "Esportivo",
+            "marca": "Marca C",
+            "ano_fabricacao": 2021,
+            "qtd_estoque": 137,
+            "qtd_vendas": 29,
+            "valor_produto": 15.96
+        }
+    ],
+    "Cal\u00e7a_Elegante_Marca B": [
+        {
+            "nome_produto": "Cal\u00e7a",
+            "modelo": "Elegante",
+            "marca": "Marca B",
+            "ano_fabricacao": 2019,
+            "qtd_estoque": 182,
+            "qtd_vendas": 42,
+            "valor_produto": 12.72
+        },
+        {
+            "nome_produto": "Cal\u00e7a",
+            "modelo": "Elegante",
+            "marca": "Marca B",
+            "ano_fabricacao": 2023,
+            "qtd_estoque": 66,
+            "qtd_vendas": 5,
+            "valor_produto": 15.65
+        },
+        {
+            "nome_produto": "Cal\u00e7a",
+            "modelo": "Elegante",
+            "marca": "Marca B",
+            "ano_fabricacao": 2023,
+            "qtd_estoque": 84,
+            "qtd_vendas": 22,
+            "valor_produto": 10.04
+        },
+        {
+            "nome_produto": "Cal\u00e7a",
+            "modelo": "Elegante",
+            "marca": "Marca B",
+            "ano_fabricacao": 2019,
+            "qtd_estoque": 79,
+            "qtd_vendas": 3,
+            "valor_produto": 11.47
+        }
+    ],
+    "Cal\u00e7a_B\u00e1sico_Marca C": [
+        {
+            "nome_produto": "Cal\u00e7a",
+            "modelo": "B\u00e1sico",
+            "marca": "Marca C",
+            "ano_fabricacao": 2018,
+            "qtd_estoque": 146,
+            "qtd_vendas": 6,
+            "valor_produto": 97.21
+        },
+        {
+            "nome_produto": "Cal\u00e7a",
+            "modelo": "B\u00e1sico",
+            "marca": "Marca C",
+            "ano_fabricacao": 2023,
+            "qtd_estoque": 97,
+            "qtd_vendas": 45,
+            "valor_produto": 64.4
+        }
+    ],
+    "Jaqueta_Casual_Marca A": [
+        {
+            "nome_produto": "Jaqueta",
+            "modelo": "Casual",
+            "marca": "Marca A",
+            "ano_fabricacao": 2023,
+            "qtd_estoque": 74,
+            "qtd_vendas": 49,
+            "valor_produto": 74.05
+        }
+    ],
+    "Jaqueta_Casual_Marca B": [
+        {
+            "nome_produto": "Jaqueta",
+            "modelo": "Casual",
+            "marca": "Marca B",
+            "ano_fabricacao": 2020,
+            "qtd_estoque": 134,
+            "qtd_vendas": 36,
+            "valor_produto": 40.28
+        },
+        {
+            "nome_produto": "Jaqueta",
+            "modelo": "Casual",
+            "marca": "Marca B",
+            "ano_fabricacao": 2023,
+            "qtd_estoque": 83,
+            "qtd_vendas": 4,
+            "valor_produto": 59.61
+        }
+    ],
+    "Bon\u00e9_Moderno_Marca D": [
+        {
+            "nome_produto": "Bon\u00e9",
+            "modelo": "Moderno",
+            "marca": "Marca D",
+            "ano_fabricacao": 2022,
+            "qtd_estoque": 192,
+            "qtd_vendas": 31,
+            "valor_produto": 68.16
+        }
+    ],
+    "Camiseta_Elegante_Marca D": [
+        {
+            "nome_produto": "Camiseta",
+            "modelo": "Elegante",
+            "marca": "Marca D",
+            "ano_fabricacao": 2021,
+            "qtd_estoque": 65,
+            "qtd_vendas": 21,
+            "valor_produto": 53.37
+        }
+    ],
+    "Bon\u00e9_Elegante_Marca A": [
+        {
+            "nome_produto": "Bon\u00e9",
+            "modelo": "Elegante",
+            "marca": "Marca A",
+            "ano_fabricacao": 2021,
+            "qtd_estoque": 152,
+            "qtd_vendas": 22,
+            "valor_produto": 58.72
+        }
+    ],
+    "Jaqueta_Esportivo_Marca E": [
+        {
+            "nome_produto": "Jaqueta",
+            "modelo": "Esportivo",
+            "marca": "Marca E",
+            "ano_fabricacao": 2019,
+            "qtd_estoque": 188,
+            "qtd_vendas": 49,
+            "valor_produto": 68.81
+        }
+    ],
+    "Camiseta_B\u00e1sico_Marca A": [
+        {
+            "nome_produto": "Camiseta",
+            "modelo": "B\u00e1sico",
+            "marca": "Marca A",
+            "ano_fabricacao": 2019,
+            "qtd_estoque": 186,
+            "qtd_vendas": 24,
+            "valor_produto": 60.54
+        },
+        {
+            "nome_produto": "Camiseta",
+            "modelo": "B\u00e1sico",
+            "marca": "Marca A",
+            "ano_fabricacao": 2018,
+            "qtd_estoque": 58,
+            "qtd_vendas": 15,
+            "valor_produto": 42.93
+        }
+    ],
+    "Camiseta_Casual_Marca D": [
+        {
+            "nome_produto": "Camiseta",
+            "modelo": "Casual",
+            "marca": "Marca D",
+            "ano_fabricacao": 2021,
+            "qtd_estoque": 170,
+            "qtd_vendas": 15,
+            "valor_produto": 54.64
+        },
+        {
+            "nome_produto": "Camiseta",
+            "modelo": "Casual",
+            "marca": "Marca D",
+            "ano_fabricacao": 2019,
+            "qtd_estoque": 94,
+            "qtd_vendas": 10,
+            "valor_produto": 33.35
+        },
+        {
+            "nome_produto": "Camiseta",
+            "modelo": "Casual",
+            "marca": "Marca D",
+            "ano_fabricacao": 2020,
+            "qtd_estoque": 174,
+            "qtd_vendas": 20,
+            "valor_produto": 31.34
+        }
+    ],
+    "T\u00eanis_B\u00e1sico_Marca B": [
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "B\u00e1sico",
+            "marca": "Marca B",
+            "ano_fabricacao": 2019,
+            "qtd_estoque": 190,
+            "qtd_vendas": 6,
+            "valor_produto": 88.47
+        },
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "B\u00e1sico",
+            "marca": "Marca B",
+            "ano_fabricacao": 2019,
+            "qtd_estoque": 168,
+            "qtd_vendas": 34,
+            "valor_produto": 74.9
+        }
+    ],
+    "Cal\u00e7a_Moderno_Marca C": [
+        {
+            "nome_produto": "Cal\u00e7a",
+            "modelo": "Moderno",
+            "marca": "Marca C",
+            "ano_fabricacao": 2023,
+            "qtd_estoque": 130,
+            "qtd_vendas": 41,
+            "valor_produto": 42.95
+        },
+        {
+            "nome_produto": "Cal\u00e7a",
+            "modelo": "Moderno",
+            "marca": "Marca C",
+            "ano_fabricacao": 2018,
+            "qtd_estoque": 168,
+            "qtd_vendas": 16,
+            "valor_produto": 74.59
+        },
+        {
+            "nome_produto": "Cal\u00e7a",
+            "modelo": "Moderno",
+            "marca": "Marca C",
+            "ano_fabricacao": 2023,
+            "qtd_estoque": 192,
+            "qtd_vendas": 28,
+            "valor_produto": 72.62
+        },
+        {
+            "nome_produto": "Cal\u00e7a",
+            "modelo": "Moderno",
+            "marca": "Marca C",
+            "ano_fabricacao": 2021,
+            "qtd_estoque": 51,
+            "qtd_vendas": 39,
+            "valor_produto": 10.63
+        }
+    ],
+    "Bon\u00e9_Moderno_Marca C": [
+        {
+            "nome_produto": "Bon\u00e9",
+            "modelo": "Moderno",
+            "marca": "Marca C",
+            "ano_fabricacao": 2019,
+            "qtd_estoque": 135,
+            "qtd_vendas": 20,
+            "valor_produto": 39.92
+        },
+        {
+            "nome_produto": "Bon\u00e9",
+            "modelo": "Moderno",
+            "marca": "Marca C",
+            "ano_fabricacao": 2022,
+            "qtd_estoque": 200,
+            "qtd_vendas": 19,
+            "valor_produto": 15.52
+        }
+    ],
+    "Cal\u00e7a_B\u00e1sico_Marca B": [
+        {
+            "nome_produto": "Cal\u00e7a",
+            "modelo": "B\u00e1sico",
+            "marca": "Marca B",
+            "ano_fabricacao": 2021,
+            "qtd_estoque": 184,
+            "qtd_vendas": 2,
+            "valor_produto": 47.97
+        }
+    ],
+    "Bon\u00e9_Casual_Marca A": [
+        {
+            "nome_produto": "Bon\u00e9",
+            "modelo": "Casual",
+            "marca": "Marca A",
+            "ano_fabricacao": 2022,
+            "qtd_estoque": 92,
+            "qtd_vendas": 10,
+            "valor_produto": 67.11
+        }
+    ],
+    "Camiseta_B\u00e1sico_Marca B": [
+        {
+            "nome_produto": "Camiseta",
+            "modelo": "B\u00e1sico",
+            "marca": "Marca B",
+            "ano_fabricacao": 2020,
+            "qtd_estoque": 92,
+            "qtd_vendas": 15,
+            "valor_produto": 91.84
+        },
+        {
+            "nome_produto": "Camiseta",
+            "modelo": "B\u00e1sico",
+            "marca": "Marca B",
+            "ano_fabricacao": 2020,
+            "qtd_estoque": 73,
+            "qtd_vendas": 43,
+            "valor_produto": 56.86
+        }
+    ],
+    "Bon\u00e9_Esportivo_Marca D": [
+        {
+            "nome_produto": "Bon\u00e9",
+            "modelo": "Esportivo",
+            "marca": "Marca D",
+            "ano_fabricacao": 2020,
+            "qtd_estoque": 171,
+            "qtd_vendas": 22,
+            "valor_produto": 54.03
+        }
+    ],
+    "Bon\u00e9_B\u00e1sico_Marca A": [
+        {
+            "nome_produto": "Bon\u00e9",
+            "modelo": "B\u00e1sico",
+            "marca": "Marca A",
+            "ano_fabricacao": 2020,
+            "qtd_estoque": 158,
+            "qtd_vendas": 25,
+            "valor_produto": 62.12
+        }
+    ],
+    "Cal\u00e7a_Casual_Marca D": [
+        {
+            "nome_produto": "Cal\u00e7a",
+            "modelo": "Casual",
+            "marca": "Marca D",
+            "ano_fabricacao": 2022,
+            "qtd_estoque": 56,
+            "qtd_vendas": 13,
+            "valor_produto": 74.23
+        }
+    ],
+    "Jaqueta_B\u00e1sico_Marca B": [
+        {
+            "nome_produto": "Jaqueta",
+            "modelo": "B\u00e1sico",
+            "marca": "Marca B",
+            "ano_fabricacao": 2018,
+            "qtd_estoque": 167,
+            "qtd_vendas": 44,
+            "valor_produto": 90.45
+        }
+    ],
+    "Cal\u00e7a_Moderno_Marca D": [
+        {
+            "nome_produto": "Cal\u00e7a",
+            "modelo": "Moderno",
+            "marca": "Marca D",
+            "ano_fabricacao": 2019,
+            "qtd_estoque": 115,
+            "qtd_vendas": 39,
+            "valor_produto": 76.64
+        }
+    ],
+    "T\u00eanis_Elegante_Marca A": [
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "Elegante",
+            "marca": "Marca A",
+            "ano_fabricacao": 2018,
+            "qtd_estoque": 87,
+            "qtd_vendas": 1,
+            "valor_produto": 34.77
+        }
+    ],
+    "T\u00eanis_B\u00e1sico_Marca E": [
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "B\u00e1sico",
+            "marca": "Marca E",
+            "ano_fabricacao": 2021,
+            "qtd_estoque": 84,
+            "qtd_vendas": 47,
+            "valor_produto": 79.74
+        }
+    ],
+    "Bon\u00e9_Moderno_Marca B": [
+        {
+            "nome_produto": "Bon\u00e9",
+            "modelo": "Moderno",
+            "marca": "Marca B",
+            "ano_fabricacao": 2022,
+            "qtd_estoque": 97,
+            "qtd_vendas": 12,
+            "valor_produto": 76.89
+        }
+    ],
+    "Camiseta_Esportivo_Marca D": [
+        {
+            "nome_produto": "Camiseta",
+            "modelo": "Esportivo",
+            "marca": "Marca D",
+            "ano_fabricacao": 2021,
+            "qtd_estoque": 189,
+            "qtd_vendas": 33,
+            "valor_produto": 45.99
+        },
+        {
+            "nome_produto": "Camiseta",
+            "modelo": "Esportivo",
+            "marca": "Marca D",
+            "ano_fabricacao": 2022,
+            "qtd_estoque": 83,
+            "qtd_vendas": 23,
+            "valor_produto": 54.88
+        }
+    ],
+    "Jaqueta_Casual_Marca D": [
+        {
+            "nome_produto": "Jaqueta",
+            "modelo": "Casual",
+            "marca": "Marca D",
+            "ano_fabricacao": 2022,
+            "qtd_estoque": 147,
+            "qtd_vendas": 20,
+            "valor_produto": 17.05
+        }
+    ],
+    "Camiseta_Casual_Marca B": [
+        {
+            "nome_produto": "Camiseta",
+            "modelo": "Casual",
+            "marca": "Marca B",
+            "ano_fabricacao": 2019,
+            "qtd_estoque": 167,
+            "qtd_vendas": 48,
+            "valor_produto": 45.85
+        },
+        {
+            "nome_produto": "Camiseta",
+            "modelo": "Casual",
+            "marca": "Marca B",
+            "ano_fabricacao": 2021,
+            "qtd_estoque": 55,
+            "qtd_vendas": 16,
+            "valor_produto": 80.62
+        }
+    ],
+    "Jaqueta_Elegante_Marca C": [
+        {
+            "nome_produto": "Jaqueta",
+            "modelo": "Elegante",
+            "marca": "Marca C",
+            "ano_fabricacao": 2022,
+            "qtd_estoque": 168,
+            "qtd_vendas": 31,
+            "valor_produto": 48.13
+        }
+    ],
+    "T\u00eanis_Moderno_Marca D": [
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "Moderno",
+            "marca": "Marca D",
+            "ano_fabricacao": 2020,
+            "qtd_estoque": 84,
+            "qtd_vendas": 19,
+            "valor_produto": 50.98
+        },
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "Moderno",
+            "marca": "Marca D",
+            "ano_fabricacao": 2019,
+            "qtd_estoque": 67,
+            "qtd_vendas": 13,
+            "valor_produto": 88.09
+        }
+    ],
+    "Camiseta_Casual_Marca A": [
+        {
+            "nome_produto": "Camiseta",
+            "modelo": "Casual",
+            "marca": "Marca A",
+            "ano_fabricacao": 2019,
+            "qtd_estoque": 156,
+            "qtd_vendas": 38,
+            "valor_produto": 40.66
+        }
+    ],
+    "T\u00eanis_Casual_Marca B": [
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "Casual",
+            "marca": "Marca B",
+            "ano_fabricacao": 2021,
+            "qtd_estoque": 194,
+            "qtd_vendas": 29,
+            "valor_produto": 57.18
+        }
+    ],
+    "Cal\u00e7a_Esportivo_Marca A": [
+        {
+            "nome_produto": "Cal\u00e7a",
+            "modelo": "Esportivo",
+            "marca": "Marca A",
+            "ano_fabricacao": 2020,
+            "qtd_estoque": 100,
+            "qtd_vendas": 35,
+            "valor_produto": 27.33
+        }
+    ],
+    "Jaqueta_Esportivo_Marca A": [
+        {
+            "nome_produto": "Jaqueta",
+            "modelo": "Esportivo",
+            "marca": "Marca A",
+            "ano_fabricacao": 2023,
+            "qtd_estoque": 193,
+            "qtd_vendas": 23,
+            "valor_produto": 86.95
+        },
+        {
+            "nome_produto": "Jaqueta",
+            "modelo": "Esportivo",
+            "marca": "Marca A",
+            "ano_fabricacao": 2021,
+            "qtd_estoque": 98,
+            "qtd_vendas": 13,
+            "valor_produto": 32.1
+        }
+    ],
+    "T\u00eanis_Casual_Marca D": [
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "Casual",
+            "marca": "Marca D",
+            "ano_fabricacao": 2023,
+            "qtd_estoque": 142,
+            "qtd_vendas": 47,
+            "valor_produto": 30.65
+        },
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "Casual",
+            "marca": "Marca D",
+            "ano_fabricacao": 2018,
+            "qtd_estoque": 200,
+            "qtd_vendas": 12,
+            "valor_produto": 43.61
+        }
+    ],
+    "Bon\u00e9_Elegante_Marca D": [
+        {
+            "nome_produto": "Bon\u00e9",
+            "modelo": "Elegante",
+            "marca": "Marca D",
+            "ano_fabricacao": 2018,
+            "qtd_estoque": 197,
+            "qtd_vendas": 27,
+            "valor_produto": 12.51
+        }
+    ],
+    "Cal\u00e7a_Elegante_Marca E": [
+        {
+            "nome_produto": "Cal\u00e7a",
+            "modelo": "Elegante",
+            "marca": "Marca E",
+            "ano_fabricacao": 2019,
+            "qtd_estoque": 144,
+            "qtd_vendas": 49,
+            "valor_produto": 86.11
+        }
+    ],
+    "T\u00eanis_Esportivo_Marca B": [
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "Esportivo",
+            "marca": "Marca B",
+            "ano_fabricacao": 2022,
+            "qtd_estoque": 172,
+            "qtd_vendas": 26,
+            "valor_produto": 34.79
+        }
+    ],
+    "T\u00eanis_Esportivo_Marca E": [
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "Esportivo",
+            "marca": "Marca E",
+            "ano_fabricacao": 2018,
+            "qtd_estoque": 155,
+            "qtd_vendas": 17,
+            "valor_produto": 14.88
+        }
+    ],
+    "T\u00eanis_Moderno_Marca B": [
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "Moderno",
+            "marca": "Marca B",
+            "ano_fabricacao": 2020,
+            "qtd_estoque": 94,
+            "qtd_vendas": 14,
+            "valor_produto": 99.62
+        }
+    ],
+    "T\u00eanis_B\u00e1sico_Marca C": [
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "B\u00e1sico",
+            "marca": "Marca C",
+            "ano_fabricacao": 2021,
+            "qtd_estoque": 118,
+            "qtd_vendas": 3,
+            "valor_produto": 26.13
+        }
+    ],
+    "Bon\u00e9_B\u00e1sico_Marca D": [
+        {
+            "nome_produto": "Bon\u00e9",
+            "modelo": "B\u00e1sico",
+            "marca": "Marca D",
+            "ano_fabricacao": 2020,
+            "qtd_estoque": 142,
+            "qtd_vendas": 21,
+            "valor_produto": 26.67
+        }
+    ],
+    "Camiseta_B\u00e1sico_Marca D": [
+        {
+            "nome_produto": "Camiseta",
+            "modelo": "B\u00e1sico",
+            "marca": "Marca D",
+            "ano_fabricacao": 2023,
+            "qtd_estoque": 94,
+            "qtd_vendas": 14,
+            "valor_produto": 29.08
+        }
+    ],
+    "Jaqueta_B\u00e1sico_Marca E": [
+        {
+            "nome_produto": "Jaqueta",
+            "modelo": "B\u00e1sico",
+            "marca": "Marca E",
+            "ano_fabricacao": 2019,
+            "qtd_estoque": 178,
+            "qtd_vendas": 42,
+            "valor_produto": 93.43
+        }
+    ],
+    "Bon\u00e9_Elegante_Marca C": [
+        {
+            "nome_produto": "Bon\u00e9",
+            "modelo": "Elegante",
+            "marca": "Marca C",
+            "ano_fabricacao": 2022,
+            "qtd_estoque": 167,
+            "qtd_vendas": 44,
+            "valor_produto": 96.65
+        }
+    ],
+    "Jaqueta_B\u00e1sico_Marca D": [
+        {
+            "nome_produto": "Jaqueta",
+            "modelo": "B\u00e1sico",
+            "marca": "Marca D",
+            "ano_fabricacao": 2020,
+            "qtd_estoque": 115,
+            "qtd_vendas": 20,
+            "valor_produto": 88.06
+        }
+    ],
+    "T\u00eanis_Esportivo_Marca A": [
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "Esportivo",
+            "marca": "Marca A",
+            "ano_fabricacao": 2018,
+            "qtd_estoque": 184,
+            "qtd_vendas": 13,
+            "valor_produto": 96.03
+        }
+    ],
+    "Camiseta_Elegante_Marca B": [
+        {
+            "nome_produto": "Camiseta",
+            "modelo": "Elegante",
+            "marca": "Marca B",
+            "ano_fabricacao": 2020,
+            "qtd_estoque": 188,
+            "qtd_vendas": 48,
+            "valor_produto": 53.15
+        }
+    ],
+    "Jaqueta_B\u00e1sico_Marca A": [
+        {
+            "nome_produto": "Jaqueta",
+            "modelo": "B\u00e1sico",
+            "marca": "Marca A",
+            "ano_fabricacao": 2023,
+            "qtd_estoque": 189,
+            "qtd_vendas": 47,
+            "valor_produto": 40.33
+        }
+    ],
+    "Bon\u00e9_Casual_Marca E": [
+        {
+            "nome_produto": "Bon\u00e9",
+            "modelo": "Casual",
+            "marca": "Marca E",
+            "ano_fabricacao": 2020,
+            "qtd_estoque": 82,
+            "qtd_vendas": 8,
+            "valor_produto": 19.73
+        }
+    ],
+    "Camiseta_B\u00e1sico_Marca E": [
+        {
+            "nome_produto": "Camiseta",
+            "modelo": "B\u00e1sico",
+            "marca": "Marca E",
+            "ano_fabricacao": 2022,
+            "qtd_estoque": 172,
+            "qtd_vendas": 17,
+            "valor_produto": 19.09
+        }
+    ],
+    "T\u00eanis_Elegante_Marca E": [
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "Elegante",
+            "marca": "Marca E",
+            "ano_fabricacao": 2020,
+            "qtd_estoque": 188,
+            "qtd_vendas": 43,
+            "valor_produto": 14.21
+        }
+    ],
+    "T\u00eanis_Elegante_Marca C": [
+        {
+            "nome_produto": "T\u00eanis",
+            "modelo": "Elegante",
+            "marca": "Marca C",
+            "ano_fabricacao": 2021,
+            "qtd_estoque": 108,
+            "qtd_vendas": 5,
+            "valor_produto": 81.2
+        }
+    ],
+    "Cal\u00e7a_Esportivo_Marca B": [
+        {
+            "nome_produto": "Cal\u00e7a",
+            "modelo": "Esportivo",
+            "marca": "Marca B",
+            "ano_fabricacao": 2021,
+            "qtd_estoque": 147,
+            "qtd_vendas": 2,
+            "valor_produto": 87.87
+        }
+    ]
+}
