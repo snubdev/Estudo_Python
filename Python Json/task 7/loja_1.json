@@ -1,0 +1,17 @@
+{
+  "loja": {
+    "nome": "Eletrônicos & Cia",
+    "produtos": [
+      {
+        "nome": "Smartphone",
+        "preco": 2799.99,
+        "quantidade_em_estoque": 15
+      },
+      {
+        "nome": "Notebook",
+        "preco": 4999.99,
+        "quantidade_em_estoque": 5
+      }
+    ]
+  }
+}

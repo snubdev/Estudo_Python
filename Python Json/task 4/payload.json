@@ -1,0 +1,25 @@
+{
+  "loja": {
+    "nome": "Loja Exemplo",
+    "endereco": "Rua, 123, Centro, Cidade Exemplo",
+    "telefone": "(11) 1234-5678",
+    "produtos": [
+      {
+        "nome": "Produto 1",
+        "preco": 29.99,
+        "quantidade_em_estoque": 50
+      },
+      {
+        "nome": "Produto 2",
+        "preco": 49.99,
+        "quantidade_em_estoque": 30
+      },
+      {
+        "nome": "Produto 3",
+        "preco": 19.99,
+        "quantidade_em_estoque": 100
+      }
+    ],
+    "email": "lojaexemplo@email.com"
+  }
+}

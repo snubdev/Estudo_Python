@@ -1,0 +1,17 @@
+{
+  "loja": {
+    "nome": "FashionStyle",
+    "produtos": [
+      {
+        "nome": "Vestido",
+        "preco": 399.99,
+        "quantidade_em_estoque": 20
+      },
+      {
+        "nome": "Calça",
+        "preco": 79.99,
+        "quantidade_em_estoque": 50
+      }
+    ]
+  }
+}

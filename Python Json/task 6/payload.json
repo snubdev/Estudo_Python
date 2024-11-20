@@ -1,0 +1,8 @@
+{
+  "produto":
+  {
+    "nome": "Camiseta",
+    "preco": 29.99,
+    "quantidade_em_estoque": 100
+  }
+}

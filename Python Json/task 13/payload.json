@@ -1,0 +1,97 @@
+{
+  "company": {
+    "name": "Global Solutions Inc.",
+    "industry": "Consultoria e Tecnologia",
+    "contact": {
+      "email": "info@globalsolutions.com",
+      "phone": "+55 21 1234-5678",
+      "address": {
+        "street": "Avenida das Empresas, 789",
+        "city": "Rio de Janeiro",
+        "state": "RJ",
+        "postalCode": "20000-000"
+      }
+    },
+    "departments": [
+      {
+        "id": "dept001",
+        "name": "Recursos Humanos",
+        "employeesCount": 15,
+        "subsectors": [
+          {
+            "id": "subdept001",
+            "name": "Recrutamento e Seleção",
+            "employeesCount": 5
+          },
+          {
+            "id": "subdept002",
+            "name": "Treinamento e Desenvolvimento",
+            "employeesCount": 10
+          }
+        ]
+      },
+      {
+        "id": "dept002",
+        "name": "Desenvolvimento de Software",
+        "employeesCount": 40,
+        "subsectors": [
+          {
+            "id": "subdept003",
+            "name": "Desenvolvimento Front-End",
+            "employeesCount": 15
+          },
+          {
+            "id": "subdept004",
+            "name": "Desenvolvimento Back-End",
+            "employeesCount": 20
+          },
+          {
+            "id": "subdept005",
+            "name": "Qualidade e Testes",
+            "employeesCount": 5
+          }
+        ]
+      },
+      {
+        "id": "dept003",
+        "name": "Vendas",
+        "employeesCount": 25,
+        "subsectors": [
+          {
+            "id": "subdept006",
+            "name": "Vendas Internas",
+            "employeesCount": 10
+          },
+          {
+            "id": "subdept007",
+            "name": "Vendas Externas",
+            "employeesCount": 15
+          }
+        ]
+      }
+    ],
+    "products": [
+      {
+        "id": "prod001",
+        "name": "Consultoria Empresarial",
+        "category": "Serviço",
+        "price": "R$ 15.000,00",
+        "description": "Consultoria completa para empresas visando otimização e crescimento."
+      },
+      {
+        "id": "prod002",
+        "name": "Software de Gestão",
+        "category": "Software",
+        "price": "R$ 5.000,00",
+        "description": "Software integrado para gerenciamento de processos empresariais."
+      },
+      {
+        "id": "prod003",
+        "name": "Treinamento de TI",
+        "category": "Serviço",
+        "price": "R$ 3.000,00",
+        "description": "Treinamento especializado em tecnologias de informação e gestão de TI."
+      }
+    ]
+  }
+}

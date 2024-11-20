@@ -1,0 +1,31 @@
+{
+  "produtos": [
+    {
+      "codigo": "P001",
+      "nome": "Camiseta básica masculina",
+      "descricao": "Camiseta de algodão com cores variadas",
+      "preco": 39.90,
+      "estoque": 150,
+      "categorias": ["masculino", "camisetas"],
+      "tamanhos_disponiveis": ["P", "M", "G", "GG"]
+    },
+    {
+      "codigo": "P002",
+      "nome": "Vestido estampado floral",
+      "descricao": "Vestido curto com estampa floral e corte elegante",
+      "preco": 129.90,
+      "estoque": 80,
+      "categorias": ["feminino", "vestidos"],
+      "tamanhos_disponiveis": ["P", "M", "G"]
+    },
+    {
+      "codigo": "P003",
+      "nome": "Calça jeans skinny",
+      "descricao": "Calça jeans azul escuro, modelagem skinny",
+      "preco": 89.90,
+      "estoque": 100,
+      "categorias": ["feminino", "calças", "jeans"],
+      "tamanhos_disponiveis": ["34", "36", "38", "40"]
+    }
+  ]
+}

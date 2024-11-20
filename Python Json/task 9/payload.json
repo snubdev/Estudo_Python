@@ -1,0 +1,27 @@
+[
+  {
+    "nome": "Meias",
+    "preco": 9.99,
+    "estoque": 100
+  },
+  {
+    "nome": "Camiseta",
+    "preco": 29.99,
+    "estoque": 50
+  },
+  {
+    "nome": "Calça",
+    "preco": 59.99,
+    "estoque": 30
+  },
+  {
+    "nome": "Óculos de Sol",
+    "preco": 79.99,
+    "estoque": 15
+  },
+  {
+    "nome": "Tênis",
+    "preco": 99.99,
+    "estoque": 20
+  }
+]

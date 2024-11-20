@@ -1,0 +1,62 @@
+{
+  "empresa": {
+    "nome": "Tech Solutions",
+    "endereco": {
+      "rua": "Av. das Nações",
+      "numero": 1234,
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "01000-000"
+    },
+    "departamentos": [
+      {
+        "nome": "Desenvolvimento",
+        "gerente": "João Silva",
+        "funcionarios": [
+          {
+            "nome": "Alice Santos",
+            "cargo": "Desenvolvedora Front-end",
+            "salario": 5000
+          },
+          {
+            "nome": "Carlos Pereira",
+            "cargo": "Desenvolvedor Back-end",
+            "salario": 5500
+          }
+        ]
+      },
+      {
+        "nome": "Marketing",
+        "gerente": "Fernanda Costa",
+        "funcionarios": [
+          {
+            "nome": "Bruna Souza",
+            "cargo": "Analista de Marketing",
+            "salario": 4000
+          },
+          {
+            "nome": "Marcos Lima",
+            "cargo": "Coordenador de Marketing",
+            "salario": 6000
+          }
+        ]
+      },
+      {
+        "nome": "Recursos Humanos",
+        "gerente": "Paula Rodrigues",
+        "funcionarios": [
+          {
+            "nome": "Rafael Alves",
+            "cargo": "Analista de RH",
+            "salario": 4500
+          },
+          {
+            "nome": "Juliana Martins",
+            "cargo": "Recrutadora",
+            "salario": 4000
+          }
+        ]
+      }
+    ]
+  }
+}
