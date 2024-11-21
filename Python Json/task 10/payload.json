@@ -1,0 +1,54 @@
+{
+  "produtos": [
+    {
+      "nome": "Camiseta",
+      "quantidade": 20,
+      "preco": 29.90
+    },
+    {
+      "nome": "Calça",
+      "quantidade": 15,
+      "preco": 79.90
+    },
+    {
+      "nome": "Tênis",
+      "quantidade": 10,
+      "preco": 149.99
+    },
+    {
+      "nome": "Óculos",
+      "quantidade": 8,
+      "preco": 99.00
+    },
+    {
+      "nome": "Bolsa",
+      "quantidade": 5,
+      "preco": 199.50
+    },
+    {
+      "nome": "Relógio",
+      "quantidade": 12,
+      "preco": 129.99
+    },
+    {
+      "nome": "Jaqueta",
+      "quantidade": 7,
+      "preco": 89.95
+    },
+    {
+      "nome": "Sapatênis",
+      "quantidade": 18,
+      "preco": 59.99
+    },
+    {
+      "nome": "Blusa",
+      "quantidade": 11,
+      "preco": 49.99
+    },
+    {
+      "nome": "Mochila",
+      "quantidade": 25,
+      "preco": 39.90
+    }
+  ]
+}

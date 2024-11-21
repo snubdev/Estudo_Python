@@ -1,0 +1,22 @@
+ID,Nome,Categoria,Preço,Quantidade
+001,Smartphone XYZ,Eletrônicos,799.99,25
+002,Notebook ABC,Eletrônicos,1199.99,15
+003,Televisão 4K,Eletrônicos,1499.99,10
+004,Headphone Bluetooth,Eletrônicos,199.99,50
+005,Micro-ondas Digital,Eletrodomésticos,249.99,30
+006,Refrigerador Frost Free,Eletrodomésticos,999.99,8
+007,Forno Elétrico,Eletrodomésticos,349.99,20
+008,Panelas de Alumínio,Cozinha,89.99,75
+009,Conjunto de Facas,Cozinha,59.99,60
+010,Tapete de Yoga,Esporte,29.99,100
+011,Raquete de Tênis,Esporte,89.99,40
+012,Bicicleta Mountain Bike,Esporte,499.99,12
+013,Cadeira Ergonomica,Móveis,199.99,25
+014,Escrivaninha Compacta,Móveis,149.99,18
+015,Lâmpada LED,Iluminação,19.99,120
+016,Abajur Moderno,Iluminação,89.99,45
+017,Cesto de Roupas,Casa,34.99,55
+018,Organizador de Gavetas,Casa,24.99,80
+019,Relógio de Parede,Casa,49.99,30
+020,Travesseiro Memory Foam,Cama e Banho,79.99,40
+021,Tablet Pro,Eletrônicos,499.99,10
