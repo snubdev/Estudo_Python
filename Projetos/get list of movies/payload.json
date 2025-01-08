@@ -1,0 +1,109 @@
+{
+  "filmes": [
+    {
+      "título": "Um Sonho de Liberdade",
+      "nota": 8.7,
+      "ano de Lançamento": "1994-09-23"
+    },
+    {
+      "título": "O Poderoso Chefão",
+      "nota": 8.69,
+      "ano de Lançamento": "1972-03-14"
+    },
+    {
+      "título": "O Poderoso Chefão: Parte II",
+      "nota": 8.571,
+      "ano de Lançamento": "1974-12-20"
+    },
+    {
+      "título": "A Lista de Schindler",
+      "nota": 8.567,
+      "ano de Lançamento": "1993-12-15"
+    },
+    {
+      "título": "12 Homens e uma Sentença",
+      "nota": 8.5,
+      "ano de Lançamento": "1957-04-10"
+    },
+    {
+      "título": "A Viagem de Chihiro",
+      "nota": 8.5,
+      "ano de Lançamento": "2001-07-20"
+    },
+    {
+      "título": "Dilwale vai levar a noiva",
+      "nota": 8.523,
+      "ano de Lançamento": "1995-10-20"
+    },
+    {
+      "título": "Batman: O Cavaleiro das Trevas",
+      "nota": 8.517,
+      "ano de Lançamento": "2008-07-16"
+    },
+    {
+      "título": "Flow",
+      "nota": 8.505,
+      "ano de Lançamento": "2024-08-29"
+    },
+    {
+      "título": "À Espera de um Milagre",
+      "nota": 8.506,
+      "ano de Lançamento": "1999-12-10"
+    },
+    {
+      "título": "Parasita",
+      "nota": 8.5,
+      "ano de Lançamento": "2019-05-30"
+    },
+    {
+      "título": "Pulp Fiction: Tempo de Violência",
+      "nota": 8.487,
+      "ano de Lançamento": "1994-09-10"
+    },
+    {
+      "título": "Your Name",
+      "nota": 8.486,
+      "ano de Lançamento": "2016-08-26"
+    },
+    {
+      "título": "O Senhor dos Anéis: O Retorno do Rei",
+      "nota": 8.483,
+      "ano de Lançamento": "2003-12-17"
+    },
+    {
+      "título": "Forrest Gump: O Contador de Histórias",
+      "nota": 8.47,
+      "ano de Lançamento": "1994-06-23"
+    },
+    {
+      "título": "Três Homens em Conflito",
+      "nota": 8.466,
+      "ano de Lançamento": "1966-12-22"
+    },
+    {
+      "título": "Os Sete Samurais",
+      "nota": 8.5,
+      "ano de Lançamento": "1954-04-26"
+    },
+    {
+      "título": "O Túmulo dos Vagalumes",
+      "nota": 8.457,
+      "ano de Lançamento": "1988-04-16"
+    },
+    {
+      "título": "Os Bons Companheiros",
+      "nota": 8.457,
+      "ano de Lançamento": "1990-09-12"
+    },
+    {
+      "título": "Cinema Paradiso",
+      "nota": 8.4,
+      "ano de Lançamento": "1988-11-17"
+    },
+    {
+      "título": "teste",
+      "nota": "teste",
+      "ano de Lançamento": "teste"
+    }
+  ]
+}
