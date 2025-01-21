@@ -10,10 +10,6 @@
 * Buscar filmes por título no arquivo JSON
 * Atualizar a lista de filmes com novos dados
 
-## Pré-requisitos
-
-* Bibliotecas necessárias: `requests`, `json`
-
 ## Configuração
 
 Adicione sua chave da API no script main.py:

@@ -8,12 +8,6 @@
 * Inserir e atualizar dados climáticos em um banco de dados
 * Consultar histórico de dados climáticos armazenado no banco de dados
 
-
-## Pré-requisitos
-
-* Bibliotecas necessárias: `requests`, `json`, `psycopg2`
-* Banco de dados compatível: `PostgreSQL`
-
 ## Instalação
 
 Instale as dependências
@@ -28,6 +22,26 @@ Adicione sua chave da API no script
 
 ```
 api_key = 'chave api'
+```
+
+Crie a tabela necessária no banco de dados:
+
+```
+CREATE TABLE weather (
+	id serial4 NOT NULL,
+	cidade varchar(100) NULL,
+	uf varchar(2) NULL,
+	"data" varchar(5) NULL,
+	umidade int4 NULL,
+	max int4 NULL,
+	min int4 NULL,
+	velocidade_vento varchar(100) NULL,
+	condicao varchar(100) NULL,
+	probabilidade_chuva int4 NULL,
+	CONSTRAINT weather_pkey PRIMARY KEY (id)
+);
+CREATE UNIQUE INDEX weather_unique_idx ON 
+weather USING btree (cidade, uf, data);
 ```
 
 Configure o acesso ao banco de dados no arquivo db.py
