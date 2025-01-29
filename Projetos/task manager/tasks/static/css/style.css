@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: lightblue;
+    padding: 1em;
+    text-align: center;
+}
+
+header h1 {
+    color: white;
+    margin: 0;
+}
+
+main {
+    padding: 2em;
+}
+
+.button {
+    display: inline-block;
+    padding: 0.5em 1em;
+    color: white;
+    background-color: lightblue;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 0.5em 0;
+}
+
+.button:hover {
+    background-color: deepskyblue;
+}
+
+.task-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.task-list li {
+    margin: 0.5em 0;
+    padding: 0.5em;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.status-box {
+    display: inline-block;
+    padding: 0.3em 0.6em;
+    border-radius: 5px;
+}
+
+.status-pending {
+    background-color: #ed1f1f;
+}
+
+.status-progress {
+    background-color: #edc01f;
+}
+
+.status-completed {
+    background-color: #53c207;
+}
+
+.task-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 20px; /* Espaço para os botões */
+}
+
+.task-item .status-box {
+    margin-right: 1em;
+}
+
+.task-item .task-actions {
+    display: flex;
+    gap: 10px; /* Espaço entre os botões */
+}
